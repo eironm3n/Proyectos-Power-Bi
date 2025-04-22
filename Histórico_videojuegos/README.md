@@ -1,2 +1,3 @@
-# Proyectos-Power-Bi
-Aqui muestro y gestiono todas mis practicas y proyectos con Power BI
+## 📊 Visualización del histórico
+
+![Dashboard Power BI](img/dashboard.png)
