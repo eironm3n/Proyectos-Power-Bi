@@ -1,3 +1,3 @@
-## 📊 Visualización del objetivo a realizar
+## Visualización del objetivo a realizar
 
-![Dashboard Power BI](Objetivo\objetivo.png)
+![Objetivo](Objetivo\objetivo.png)
