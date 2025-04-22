@@ -1,3 +1,3 @@
 ## Visualización del objetivo a realizar
 
-![Objetivo](Objetivo/objetivo.png)
+![Objetivo](img/objetivo.png)
