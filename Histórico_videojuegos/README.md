@@ -1,11 +1,6 @@
-## 📊 Visualización del histórico
+# 📊 Dashboard de Histórico de Videojuegos (Proyecto End-to-End)
 
 ![Dashboard Power BI](img/dashboard.png)
-
-### Para trabajar/testear este proyecto, descargar y abrir con Power Bi Desktop o su versión web.
-
-# Dashboard de Histórico de Videojuegos (Proyecto End-to-End)
-
 ![placeholder](https://github.com/eironm3n/Proyectos-Power-Bi/blob/main/Hist%C3%B3rico_videojuegos/Ventas%20de%20videojuegos%20-%20Dashboard.png)
 
 ## Descripción del Proyecto
