@@ -1,7 +1,6 @@
 # 📊 Dashboard de Histórico de Videojuegos (Proyecto End-to-End)
 
 ![Dashboard Power BI](img/dashboard.png)
-![placeholder](https://github.com/eironm3n/Proyectos-Power-Bi/blob/main/Hist%C3%B3rico_videojuegos/Ventas%20de%20videojuegos%20-%20Dashboard.png)
 
 ## Descripción del Proyecto
 Este es un proyecto de portfolio que demuestra el ciclo de vida completo de los datos, desde la extracción inicial hasta la visualización interactiva. Utilizando un conjunto de datos sobre ventas históricas de videojuegos, se gestionó todo el proceso para transformar datos crudos en un dashboard de Business Intelligence funcional y perspicaz.
